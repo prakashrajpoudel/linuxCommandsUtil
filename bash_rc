@@ -187,9 +187,6 @@ alias gpu='git pull --rebase'
 alias liquibase='/other/projects/liquibase/liquibase-2.0.5-bin/liquibase'
 ###export liquibase
 
-## Auto build alias
-alias autobuild='/other/build/autobuild.git/builders/autobuild.py'
-
 ## Push changes into master branch
 alias pushchanges='/other/build/pushchange.sh'
 
